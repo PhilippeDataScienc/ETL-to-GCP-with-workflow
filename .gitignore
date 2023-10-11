@@ -2,3 +2,4 @@
 *.json
 /data_yellow
 *.parquet
+__pycache__
