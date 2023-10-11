@@ -1,3 +1,4 @@
 /zoom
 *.json
 /data_yellow
+*.parquet
